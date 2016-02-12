@@ -1,0 +1,2 @@
+# staticweb
+#Simple Training Web
